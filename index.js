@@ -11,4 +11,5 @@ function johnLennonFacts(facts){
   while (length > 0){
     facts.push("${fact[i]} + !!!")
   }
+  return facts
 }
