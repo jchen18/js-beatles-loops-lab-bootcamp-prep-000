@@ -8,5 +8,5 @@ function theBeatlesPlay(musicians,instruments){
 
 function johnLennonFacts(facts){
   var length = facts.length
-  while 
+  while (length > 0)
 }
