@@ -8,8 +8,10 @@ function theBeatlesPlay(musicians,instruments){
 
 function johnLennonFacts(facts){
   var length = facts.length
+  var i = 0
   while (length > 0){
     facts.push(`${facts[i]} + !!!`)
+    i = i + 1
   }
   return facts
 }
