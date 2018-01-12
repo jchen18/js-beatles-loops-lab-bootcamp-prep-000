@@ -6,10 +6,10 @@ function theBeatlesPlay(musicians,instruments){
  return pairing 
 }
 
-function johnLennonFacts(facts){
-  var length = facts.length
-  while (length > 0){
-    facts.push("${fact[i]} + !!!")
-  }
-  return facts
-}
+// function johnLennonFacts(facts){
+//   var length = facts.length
+//   while (length > 0){
+//     facts.push("${fact[i]} + !!!")
+//   }
+//   return facts
+// }
