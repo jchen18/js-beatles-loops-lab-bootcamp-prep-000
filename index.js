@@ -11,7 +11,6 @@ function johnLennonFacts(facts){
   var i = 0
   while (length > 0){
     facts.push(`${facts[i]} + !!!`)
-    i = i + 1
   }
   return facts
 }
