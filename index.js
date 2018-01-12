@@ -3,7 +3,7 @@ function theBeatlesPlay(musicians,instruments){
   for (let i = 1; i < 5; i++){
     var specific_musician = musicians[i];
     var specific_instrument = instruments[i];
-    pairing.push("${i} plays ${instruments[i]}")
+    pairing.push("${i} plays ${i}")
   }
  return pairing 
 }
