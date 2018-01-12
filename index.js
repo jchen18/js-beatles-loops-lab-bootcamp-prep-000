@@ -1,5 +1,5 @@
 function theBeatlesPlay(musicians,instruments){
   var pairing = {}
-  for 
+  for var = 1, 
   
 }
